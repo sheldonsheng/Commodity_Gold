@@ -1,5 +1,3 @@
-import time
-
 import investpy
 import pandas as pd
 import datetime
